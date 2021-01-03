@@ -2,7 +2,7 @@
 
 A simple 2D, shooting game. Made with pygame.
 
-![](.gif)
+![gif](game.gif)
 
 # Requirements
 - Python 3.x
